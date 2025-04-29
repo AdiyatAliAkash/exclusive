@@ -6,9 +6,8 @@ export default {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        'poppins': ["Poppins", 'sans-serif'],
-        'inter': ["Inter", 'sans-serif']
+      maxWidth:{
+        container: '1320px'
       }
     },
   },
